@@ -1,0 +1,12 @@
+{
+  "name": "03_npm-library-test",
+  "version": "1.0.0",
+  "description": "test node npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harun Ahmad",
+  "license": "ISC",
+  "type": "module"
+}
